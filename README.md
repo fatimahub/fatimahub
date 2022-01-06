@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Linux, Javascript, AWS
 - 🌱 I’m currently learning Python,Linux,AWS
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ......
+- 📫 How to reach me f.....
 
 <!---
 fatimahub/fatimahub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
